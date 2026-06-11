@@ -1,0 +1,10 @@
+praw
+pandas
+nltk
+matplotlib
+seaborn
+networkx
+wordcloud
+vaderSentiment
+python-louvain
+jupyter
